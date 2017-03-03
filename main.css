@@ -233,6 +233,10 @@ h2 {
   margin-bottom: 0.5em;
 }
 
+h3 {
+  font-size: 20px;
+}
+
 h5 {
   text-transform: uppercase;
   font-weight: 300;
@@ -259,9 +263,14 @@ em {
 
 .hero {
   text-align: center;
-  line-height: 2em;
-  padding-top: 36px;
-  padding-bottom: 4em;
+  line-height: 44px;
+  padding-top: 22px;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-bottom: 66px;
+  width: 72%;
+  display: block;
+  margin: auto;
 }
 
 .hero p {
@@ -270,7 +279,6 @@ em {
   line-height: 1.75em;
   letter-spacing: -0.75px;
   padding-bottom: 5px;
-  text-align: center;
 }
 
 p {
